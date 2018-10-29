@@ -3,12 +3,13 @@
 	padding: 0;
 }
 .box{
-	height: 100px;
+	height: 130px;
 	width: 100px;
 	background-color: red;
 	position: relative;
 	animation-name: test;
 	animation-duration: 5s;	
+	border-radius: 50%;
 }
 @keyframes test{
 	0%{
